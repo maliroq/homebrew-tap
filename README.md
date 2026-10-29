@@ -41,3 +41,17 @@ wirediet help
 The WireDiet formula builds locally from the verified `v0.1.0-preview.5` source release. This tap does not distribute an unsigned macOS executable.
 
 Project: https://github.com/maliroq/wirediet
+
+## LibreReplace
+
+LibreReplace compares supported commercial Mac apps with evidence-backed open-source alternatives and shows explicit tradeoffs before you switch.
+
+Install the current ad-hoc-signed, non-notarized preview:
+
+```bash
+brew install --cask maliroq/tap/librereplace
+```
+
+Homebrew installs the same `v0.1.0-preview.1` DMG published in GitHub Releases. It does not make the app Apple-notarized.
+
+Project: https://github.com/maliroq/librereplace
