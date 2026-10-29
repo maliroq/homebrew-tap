@@ -2,6 +2,25 @@
 
 Homebrew formulae for maliroq projects.
 
+## ComposeDrill
+
+ComposeDrill proves whether a Docker Compose application can actually recover from its backup and recovery evidence.
+
+Install on macOS:
+
+```bash
+brew install maliroq/tap/composedrill
+```
+
+Then verify the install and see the available commands:
+
+```bash
+composedrill version
+composedrill help
+```
+
+Project: https://github.com/maliroq/composedrill
+
 ## WireDiet
 
 WireDiet builds minimal, device-specific DNS policies through real, reversible experiments.
