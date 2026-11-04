@@ -52,6 +52,6 @@ Install the current ad-hoc-signed, non-notarized preview:
 brew install --cask maliroq/tap/librereplace
 ```
 
-Homebrew installs the same `v0.1.0-preview.1` DMG published in GitHub Releases. It does not make the app Apple-notarized.
+Homebrew installs the `v0.2.0-preview.1` DMG published in GitHub Releases. It does not make the app Apple-notarized.
 
 Project: https://github.com/maliroq/librereplace

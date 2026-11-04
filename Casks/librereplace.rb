@@ -1,6 +1,6 @@
 cask "librereplace" do
-  version "0.1.0-preview.1"
-  sha256 "48579e6578dba7bea82d4a93a0771689d169a430a38d30f3b34cb877ced6611e"
+  version "0.2.0-preview.1"
+  sha256 "f65c700c9b1390961806e0ea2c556802633bc5f5b4956b3dd5bf5c429bf765ac"
 
   url "https://github.com/maliroq/librereplace/releases/download/v#{version}/LibreReplace-v#{version}.dmg"
   name "LibreReplace"
